@@ -1,10 +1,10 @@
 # Soupmarine
-A very low cost sub that is made too look for new territory after soup destroyed the world.
+A very low cost sub that is made too shield from radiation and find recources after Soups evil twin: Salad destroyed the world.
 <img width="1587" height="2245" alt="remove bg Uploads Bulk Editing APPlugins Pricing Log in Sign up Remove Imag(2)" src="https://github.com/user-attachments/assets/92895005-4741-49c9-a783-4e22f57871e0" />
 
 
 ## Overview
-This project is a low-cost, 3D-printable RC submarine built to stop SOUP from destroying the world.
+This project is a low-cost, 3D-printable RC submarine built to stop SALAD from destroying the world.
 
 The submarine is controlled by a Seeed Studio XIAO ESP32-S3 Sense, which communicates with a custom control website hosted on a local server running on a laptop. The website, built primarily with JavaScript and HTML, can be accessed from both a computer and a smartphone as long as they are connected to the same local network.
 
@@ -34,8 +34,8 @@ Monitor the battery percentage in real time
 View connection latency and other live system information
 
 ## Mission
-The world has already fallen to SOUP.
+The world has already fallen to Salad. Radiation from the hydrogen atom bombs has made the remaining surface completely uninhabitable.
 
-With much of the planet flooded and unexplored, this submarine was built to search beneath the surface for new territories, resources, and signs of hope. Designed as an affordable, 3D-printable exploration vehicle, it can navigate underwater environments while transmitting control commands and system data through a custom web interface.
+With much of the planet flooded and unexplored, this submarine was built to search beneath the surface for new territories, resources, and signs of hope. Designed as an affordable, 3D-printable exploration vehicle, it can navigate underwater environments while transmitting control commands and system data through a custom web interface. 
 
 By combining inexpensive electronics, 3D-printed components, and creative engineering, the project demonstrates how a capable underwater exploration vehicle can be built with readily available hardware.

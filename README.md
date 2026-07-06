@@ -30,7 +30,6 @@ Adjust the rear fins for steering and pitch
 Operate the DC motor-powered buoyancy control system to dive and surface
 Monitor the battery percentage in real time
 View connection latency and other live system information
-This setup provides an intuitive control system without requiring a dedicated mobile application.
 
 ## Mission
 The world has already fallen to SOUP.
